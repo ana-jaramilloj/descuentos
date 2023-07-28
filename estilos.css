@@ -68,15 +68,20 @@ head nav .header__button {
   align-items: center;
 }
 
-nav -header__button a{
+nav .header__button a {
   color: var(--blue-soft);
   text-decoration: none;
   border: 1px solid var(--blue-secundario);
   background-color: var(--blue-secundario);
   border-radius: 15px;
-  font-size: 1.2rem
+  font-size: 1.2rem;
   font-weight: bold;
   padding: 5px;
   margin-right: 5px;
 }
-
+.header__container img {
+  margin: 0 auto;
+  width: 60px;
+  height: 60px;
+  padding-bottom: 10px;
+}
