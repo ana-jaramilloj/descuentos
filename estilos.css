@@ -73,7 +73,7 @@ nav -header__button a{
   text-decoration: none;
   border: 1px solid var(--blue-secundario);
   background-color: var(--blue-secundario);
-  border-radious: 15px;
+  border-radius: 15px;
   font-size: 1.2rem
   font-weight: bold;
   padding: 5px;
